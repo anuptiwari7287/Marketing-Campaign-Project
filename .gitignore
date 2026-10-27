@@ -1,0 +1,13 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Excel temp files
+~$*.xlsx
+
+# SQL Server artifacts
+*.bak
+*.mdf
+*.ldf
